@@ -2,7 +2,8 @@
 
 ## My articles that I share: https://l-nascimento-scr.medium.com/
 
-## Soon studies with Spring Native and GraalVm
+## studies with Spring Native and GraalVm: https://github.com/lucasnscr/Spring-Native-Study
+
 
 
 ## [![lucasnscr's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasnscr)](https://github.com/lucasnscr/github-readme-stats)
