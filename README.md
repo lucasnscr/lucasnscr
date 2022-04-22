@@ -11,12 +11,7 @@ Knowledge of the following technologies:
 - **Database**: Oracle, DB2, MySQL, Postgres.
 - **NoSQL**: MongoDB, Redis, DynamoDB and Firestore.
 - **Message Broker**: ActiveMQ, RabbitMQ, Nats and Kafka.
-- Other Tools: Maven, Gradle, Docker, Kubernetes, Jenkins, Spinnaker, Dynatrace, Confluence and Jira.
-
-- 🔭 Check out my article about [Microservice and my best patterns](https://dev.to/lucasnscr/microservices-and-best-patterns-2c9i)
-- 🌱 I’m currently learning: Go and web3
-- 🥅 2022 Goals: Improve  my english level
-- ⚡ Fun fact: I love take picture with a drone, play guitar and collect vinyls
+- **Other Tools**: Maven, Gradle, Docker, Kubernetes, Jenkins, Spinnaker, Dynatrace, Confluence and Jira.
 
 ### Connect with me:
 
