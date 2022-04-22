@@ -16,6 +16,7 @@
 
 ## [My Articles and Tutorials](https://dev.to/lucasnscr)
 
+### Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
