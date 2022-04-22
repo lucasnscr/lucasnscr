@@ -2,6 +2,17 @@
 
 ## I'm a Platform Product Manager, Software Engineer, Speak about Micoservices and Cloud!!
 
+I've been working with Technology for 8 years focused on solution, backend architecture and and agile methodologies. All of them applied to financial solutions. I worked at the three largest banks in Brazil Designing solutions, Building products with microservices, containers and Cloud Native architecture and supporting their operations.
+
+Knowledge of the following technologies:
+
+**Language**: Java, Kotlin, Python, Go and Cobol.
+**Framework**: Spring, Quarkus, Micronaut, Camel, gPRC, Akka and Axon.
+**Database**: Oracle, DB2, MySQL, Postgres.
+**NoSQL**: MongoDB, Redis, DynamoDB and Firestore.
+**Message Broker**: ActiveMQ, RabbitMQ, Nats and Kafka.
+Other Tools: Maven, Gradle, Docker, Kubernetes, Jenkins, Spinnaker, Dynatrace, Confluence and Jira.
+
 - 🔭 Check out my article about [Microservice and my best patterns](https://dev.to/lucasnscr/microservices-and-best-patterns-2c9i)
 - 🌱 I’m currently learning: Go and web3
 - 🥅 2022 Goals: Improve  my english level
