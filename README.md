@@ -8,7 +8,7 @@ I've been working with Technology for 8 years focused on solution, backend archi
 
 Knowledge of the following technologies:
 
-- **Language**: Java, Kotlin, Python, Go and Cobol.
+- **Language**: Java, Kotlin, Python and Cobol.
 - **Framework**: Spring, Quarkus, Micronaut, Camel, gPRC, Akka and Axon.
 - **Database**: Oracle, DB2, MySQL, Postgres.
 - **NoSQL**: MongoDB, Redis, DynamoDB and Firestore.
@@ -17,7 +17,7 @@ Knowledge of the following technologies:
 
 ### Platform Manifesto
 
-For your organization to make the most out of technology investments, you need a comprehensive strategy that puts your essential business priorities at the heart of your approach to foundational technologies. Platform thinking then becomes the touchstone for making key technology decisions that will simplify your ecosystem, stimulate innovation, and accelerate delivery. With that in mind, I created three articles covering three concepts: Platform Driven, Principles of platform and Create Platform Architecture using Open Source technology.
+For your organization to make the most out of technology investments, you need a comprehensive strategy that puts your essential business priorities at the heart of your approach to foundational technologies. Platform thinking then becomes the touchstone for making key technology decisions that will simplify your ecosystem, stimulate innovation, and accelerate delivery. With that in mind, I created three articles covering three concepts: Platform Driven, Principles of digital platform and Create Platform Architecture using Open Source technology.
 
 - [Platform driven business](https://dev.to/lucasnscr/accelerating-business-with-platforms-2i8f)
 - [Principles of digital platforms](https://dev.to/lucasnscr/principios-de-uma-plataforma-digital-2d8e)
