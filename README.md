@@ -6,12 +6,12 @@ I've been working with Technology for 8 years focused on solution, backend archi
 
 Knowledge of the following technologies:
 
-**Language**: Java, Kotlin, Python, Go and Cobol.
-**Framework**: Spring, Quarkus, Micronaut, Camel, gPRC, Akka and Axon.
-**Database**: Oracle, DB2, MySQL, Postgres.
-**NoSQL**: MongoDB, Redis, DynamoDB and Firestore.
-**Message Broker**: ActiveMQ, RabbitMQ, Nats and Kafka.
-Other Tools: Maven, Gradle, Docker, Kubernetes, Jenkins, Spinnaker, Dynatrace, Confluence and Jira.
+- **Language**: Java, Kotlin, Python, Go and Cobol.
+- **Framework**: Spring, Quarkus, Micronaut, Camel, gPRC, Akka and Axon.
+- **Database**: Oracle, DB2, MySQL, Postgres.
+- **NoSQL**: MongoDB, Redis, DynamoDB and Firestore.
+- **Message Broker**: ActiveMQ, RabbitMQ, Nats and Kafka.
+- Other Tools: Maven, Gradle, Docker, Kubernetes, Jenkins, Spinnaker, Dynatrace, Confluence and Jira.
 
 - 🔭 Check out my article about [Microservice and my best patterns](https://dev.to/lucasnscr/microservices-and-best-patterns-2c9i)
 - 🌱 I’m currently learning: Go and web3
