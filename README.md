@@ -1,6 +1,6 @@
 ### 
 
-## I'm a Platform Product Manager, Software Engineer, Speak about Micoservices and Cloud!!
+## I'm a Platform Product Manager, Principal Software Engineer, Writer about Micoservices and Cloud!!
 
 Hi, I'm Lucas Nascimento, 27 years old.
 
