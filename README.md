@@ -15,7 +15,7 @@ Knowledge of the following technologies:
 
 ### Platform Manifesto
 
-- [Platform-driven business](https://dev.to/lucasnscr/accelerating-business-with-platforms-2i8f)
+- [Platform driven business](https://dev.to/lucasnscr/accelerating-business-with-platforms-2i8f)
 - [Principles of digital platforms](https://dev.to/lucasnscr/principios-de-uma-plataforma-digital-2d8e)
 - [Open Source Architecture for a Platform](https://dev.to/lucasnscr/architecture-of-an-open-source-digital-platform-o1l)
 
