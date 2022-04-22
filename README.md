@@ -19,14 +19,10 @@ Knowledge of the following technologies:
 <a href="https://instagram.com/lucasnscr" target="_blank"> <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="40" height="40"/> </a>
 &nbsp;&nbsp;
 
-
-## [My Articles and Tutorials](https://dev.to/lucasnscr)
-
 ### Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-## ![](https://komarev.com/ghpvc/?username=lucasnscr)
 ## [![Lucasnscr GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasnscr)](https://github.com/lucasnscr/github-readme-stats)
 ## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnscr&layout=compact)](https://github.com/lucasnscr/github-readme-stats)
 
