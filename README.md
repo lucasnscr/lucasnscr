@@ -21,6 +21,11 @@ Knowledge of the following technologies:
 
 ### Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
+- [CQRS - Implementing SQS, DynamoDB and MongoDB with Spring and AWSLocalstack](https://dev.to/lucasnscr/cqrs-implementing-sqs-dynamodb-and-mongodb-with-spring-and-localstack-29j4)
+- [Feature Flag Platform with FF4J, Spring, Postgres and Kubernetes](https://dev.to/lucasnscr/feature-flag-platform-with-ff4j-spring-postgres-and-kubernetes-21hc)
+- [Resilience and Best Patterns](https://dev.to/lucasnscr/resilience-and-best-patterns-4mo)
+- [Microservices and Best Patterns](https://dev.to/lucasnscr/microservices-and-best-patterns-2c9i)
+- [Explaining JWT with Spring and MongoDB](https://dev.to/lucasnscr/explaining-jwt-with-spring-and-mongodb-26ln)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Lucasnscr GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasnscr)](https://github.com/lucasnscr/github-readme-stats)
