@@ -35,6 +35,5 @@ href="https://neo4j.com/" target="_blank"> <img src="https://www.vectorlogo.zone
 href="https://cloud.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
  </p>
 
-## [![Lucasnscr GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasnscr)](https://github.com/lucasnscr/github-readme-stats)
-## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnscr&layout=compact)](https://github.com/lucasnscr/github-readme-stats)
+[![Lucasnscr GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasnscr)](https://github.com/lucasnscr/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnscr&layout=compact)](https://github.com/lucasnscr/github-readme-stats)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasnscr" alt="lucasnscr" /></a> </p>
