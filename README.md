@@ -2,7 +2,7 @@
 
 ## I'm a Platform Product Manager, Software Engineer, Speak about Micoservices and Cloud!!
 
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
+- 🔭 Check out my article about [Microservice and my best patterns](https://dev.to/lucasnscr/microservices-and-best-patterns-2c9i)
 - 🌱 I’m currently learning: Go and web3
 - 🥅 2022 Goals: Improve  my english level
 - ⚡ Fun fact: I love take picture with a drone, play guitar and collect vinyls
