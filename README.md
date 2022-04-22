@@ -1,7 +1,7 @@
 ### I'm Lucas- Software Engineer, from Brazil. Career built in the financial sector, building native cloud architectures and scalable applications to serve different geographies in the world in the sense of digital transformation of in large corporations. This Repository contains applications that simulate exchange of values from a digital bank, financial manager to a digital bank and studies with the following technologies: Java, gRPC, Rsocket, Angular 11, Firebase, Docker, Kubernetes, Redis, RabbitMQ, MongoDB, MySQL, Amazon S3, Amazon DynamoDB and Apache Cassandra. The Applications are demonstrated using the Spring ecosystem. SpringBoot, Spring Data, Spring Security, Spring Cloud. 👋
 
 
-## My articles: https://dev.to/lucasnscr
+## [![DevTo]https://dev.to/lucasnscr [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/lucasnscr/)
 
 
 ## ![](https://komarev.com/ghpvc/?username=lucasnscr)
