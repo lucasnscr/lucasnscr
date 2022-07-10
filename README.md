@@ -31,11 +31,11 @@ For your organization to make the most out of technology investments, you need a
 
 ### Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
+- [Improve security with Keycloak and Spring](https://dev.to/lucasnscr/improve-security-with-keycloak-and-spring-14b5)
 - [Chaos Engineering with Chaos Mesh](https://dev.to/lucasnscr/chaos-engineering-with-chaos-mesh-2fkg)
 - [Implementing Event Driven Auto Scaling with Keda and Kubernetes](https://dev.to/lucasnscr/implementing-event-driven-auto-scaling-with-keda-and-kubernetes-223)
 - [CQRS - Implementing SQS, DynamoDB and MongoDB with Spring and AWSLocalstack](https://dev.to/lucasnscr/cqrs-implementing-sqs-dynamodb-and-mongodb-with-spring-and-localstack-29j4)
 - [Feature Flag Platform with FF4J, Spring, Postgres and Kubernetes](https://dev.to/lucasnscr/feature-flag-platform-with-ff4j-spring-postgres-and-kubernetes-21hc)
-- [Resilience and Best Patterns](https://dev.to/lucasnscr/resilience-and-best-patterns-4mo)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Technology:</h3>
