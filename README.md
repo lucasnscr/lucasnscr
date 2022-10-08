@@ -26,7 +26,6 @@ For your organization to make the most out of technology investments, you need a
 ### Connect with me:
 
 <a href="https://linkedin.com/in/lucasnscr" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="40" height="40"/> </a>
-<a href="https://instagram.com/lucasnscr" target="_blank"> <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="40" height="40"/> </a>
 &nbsp;&nbsp;
 
 ### Latest Blog Post
