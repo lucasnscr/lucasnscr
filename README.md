@@ -23,11 +23,6 @@ For your organization to make the most out of technology investments, you need a
 - [Principles of digital platforms](https://dev.to/lucasnscr/principios-de-uma-plataforma-digital-2d8e)
 - [Open Source Architecture for a Platform](https://dev.to/lucasnscr/architecture-of-an-open-source-digital-platform-o1l)
 
-### Connect with me:
-
-<a href="https://linkedin.com/in/lucasnscr" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="40" height="40"/> </a>
-&nbsp;&nbsp;
-
 ### Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
 - [Aws Lambda - Implementing lambda with Spring native and localstack](https://dev.to/lucasnscr/aws-lambda-implementing-lambda-with-spring-native-and-localstack-58e4)
