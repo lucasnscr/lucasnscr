@@ -41,3 +41,6 @@ href="https://cloud.google.com/" target="_blank"> <img src="https://www.vectorlo
 
 [![Lucasnscr GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasnscr)](https://github.com/lucasnscr/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnscr&layout=compact)](https://github.com/lucasnscr/github-readme-stats)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasnscr" alt="lucasnscr" /></a> </p>
+
+## Profile View Counter
+![Profile View Counter](https://komarev.com/ghpvc/?username=lucasnscr)
