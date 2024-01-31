@@ -25,11 +25,11 @@ For your organization to make the most out of technology investments, you need a
 
 ### Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
+- [Generative AI with SpringBoot Services](https://dev.to/lucasnscr/generative-ai-with-springboot-services-471l)
 - [Deployment and Patterns](https://dev.to/lucasnscr/deployment-and-patterns-18me)
 - [Database types and Cap Theorem](https://dev.to/lucasnscr/database-types-and-cap-theorem-56d9)
 - [Aws Lambda - Implementing lambda with Spring native and localstack](https://dev.to/lucasnscr/aws-lambda-implementing-lambda-with-spring-native-and-localstack-58e4)
 - [Improve security with Keycloak and Spring](https://dev.to/lucasnscr/improve-security-with-keycloak-and-spring-14b5)
-- [Chaos Engineering with Chaos Mesh](https://dev.to/lucasnscr/chaos-engineering-with-chaos-mesh-2fkg)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Technology:</h3>
