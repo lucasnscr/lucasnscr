@@ -2,9 +2,9 @@
 
 ## I'm a Platform Product Manager, Senior Software Engineer, Writer about Microservices and Cloud!!
 
-Hi, I'm Lucas Nascimento, 29 years old.
+Hi, I'm Lucas Nascimento, 30 years old.
 
-I've been working with Technology for 9 years focused on solution, backend architecture and and agile methodologies. All of them applied to financial solutions. I worked at the three largest banks in Brazil Designing solutions, Building products with microservices, containers and Cloud Native architecture and supporting their operations.
+I've been working with Technology for 10+ years focused on solution, backend architecture and and agile methodologies. All of them applied to financial solutions. I worked at the three largest banks in Brazil Designing solutions, Building products with microservices, containers and Cloud Native architecture and supporting their operations.
 
 Knowledge of the following technologies:
 
