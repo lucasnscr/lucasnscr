@@ -2,6 +2,14 @@
 
 ## I'm a Platform Product Manager, Senior Software Engineer, Writer about Microservices and Cloud!!
 
+### Let's connect ? 🤝
+
+<p align="left">
+<a href="http://bit.ly/lucasnscr"><img src="https://img.shields.io/badge/-guillaumefalourd-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="http://bit.ly/lucasnscrdevto"><img src="https://img.shields.io/badge/-guifalourd-%2312100E?style=flat&logo=dev.to&logoColor=white"/></a>
+<a href="mailto:l.nascimento.scr@gmail.com"><img src="https://img.shields.io/badge/-guillaume.falourd@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
+
 Hi, I'm Lucas Nascimento, 30 years old.
 
 I've been working with Technology for 10+ years focused on solution, backend architecture and and agile methodologies. All of them applied to financial solutions. I worked at the three largest banks in Brazil Designing solutions, Building products with microservices, containers and Cloud Native architecture and supporting their operations.
