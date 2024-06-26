@@ -5,9 +5,8 @@
 ### Let's connect ? 🤝
 
 <p align="left">
-<a href="http://bit.ly/lucasnscr"><img src="https://img.shields.io/badge/-guillaumefalourd-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="http://bit.ly/lucasnscrdevto"><img src="https://img.shields.io/badge/-guifalourd-%2312100E?style=flat&logo=dev.to&logoColor=white"/></a>
-<a href="mailto:l.nascimento.scr@gmail.com"><img src="https://img.shields.io/badge/-guillaume.falourd@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/lucasnscr/"><img src="https://img.shields.io/badge/-lucasnscr-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://dev.to/lucasnscr"><img src="https://img.shields.io/badge/-lucasnscr-%2312100E?style=flat&logo=dev.to&logoColor=white"/></a>
 </p>
 
 Hi, I'm Lucas Nascimento, 30 years old.
