@@ -2,8 +2,6 @@
 
 ## I'm a Platform Product Manager, Senior Software Engineer, Writer about Microservices and Cloud!!
 
-### Let's connect ? 🤝
-
 <p align="left">
 <a href="https://www.linkedin.com/in/lucasnscr/"><img src="https://img.shields.io/badge/-lucasnscr-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://dev.to/lucasnscr"><img src="https://img.shields.io/badge/-lucasnscr-%2312100E?style=flat&logo=dev.to&logoColor=white"/></a>
