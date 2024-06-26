@@ -15,7 +15,7 @@ Knowledge of the following technologies:
 - **Message Broker**: ActiveMQ, RabbitMQ, Nats and Kafka.
 - **Other Tools**: Maven, Gradle, Docker, Kubernetes, Jenkins, Spinnaker, Dynatrace, Confluence and Jira.
 
-### Platform Manifesto
+### Platform Manifest
 
 For your organization to make the most out of technology investments, you need a comprehensive strategy that puts your essential business priorities at the heart of your approach to foundational technologies. Platform thinking then becomes the touchstone for making key technology decisions that will simplify your ecosystem, stimulate innovation, and accelerate delivery. With that in mind, I created three articles covering three concepts: Platform Driven, Principles of digital platform and Create Platform Architecture using Open Source technology.
 
