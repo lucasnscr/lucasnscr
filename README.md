@@ -30,11 +30,11 @@ For your organization to make the most out of technology investments, you need a
 
 ### Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
+- [Multithreading and Patterns](https://dev.to/lucasnscr/multithreading-and-patterns-4nmk)
 - [Vector Database and Spring IA](https://dev.to/lucasnscr/vector-database-and-spring-ia-4dll)
 - [Generative AI with SpringBoot Services](https://dev.to/lucasnscr/generative-ai-with-springboot-services-471l)
 - [Deployment and Patterns](https://dev.to/lucasnscr/deployment-and-patterns-18me)
 - [Database types and Cap Theorem](https://dev.to/lucasnscr/database-types-and-cap-theorem-56d9)
-- [Aws Lambda - Implementing lambda with Spring native and localstack](https://dev.to/lucasnscr/aws-lambda-implementing-lambda-with-spring-native-and-localstack-58e4)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
