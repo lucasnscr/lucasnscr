@@ -30,11 +30,11 @@ For your organization to make the most out of technology investments, you need a
 
 ### Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
+- [Applying GenAI Design Patterns to Build a Next-Generation Financial Analysis Application](https://dev.to/lucasnscr/applying-genai-design-patterns-to-build-a-next-generation-financial-analysis-application-551k)
 - [Multithreading and Patterns](https://dev.to/lucasnscr/multithreading-and-patterns-4nmk)
 - [Vector Database and Spring IA](https://dev.to/lucasnscr/vector-database-and-spring-ia-4dll)
 - [Generative AI with SpringBoot Services](https://dev.to/lucasnscr/generative-ai-with-springboot-services-471l)
 - [Deployment and Patterns](https://dev.to/lucasnscr/deployment-and-patterns-18me)
-- [Database types and Cap Theorem](https://dev.to/lucasnscr/database-types-and-cap-theorem-56d9)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
