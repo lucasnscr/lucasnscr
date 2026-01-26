@@ -30,11 +30,11 @@ For your organization to make the most out of technology investments, you need a
 
 ### Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
+- [Customer Support Agent with ADK and LangGraph](https://dev.to/lucasnscr/customer-support-agent-with-adk-and-langgraph-4k5n)
 - [Quarkus LangChain4j Book Recommendation System](https://dev.to/lucasnscr/quarkus-langchain4j-book-recommendation-system-2cbo)
 - [MCP and Spring AI](https://dev.to/lucasnscr/mcp-and-spring-ai-1dj4)
 - [MCP Protocol with Spring AI](https://dev.to/lucasnscr/mcp-protocol-with-spring-ai-l9b)
 - [Ai Agent Patterns with Spring AI](https://dev.to/lucasnscr/ai-agent-patterns-with-spring-ai-43gl)
-- [Applying GenAI Design Patterns to Build a Next-Generation Financial Analysis Application](https://dev.to/lucasnscr/applying-genai-design-patterns-to-build-a-next-generation-financial-analysis-application-551k)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
